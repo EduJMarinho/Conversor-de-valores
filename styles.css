@@ -10,7 +10,7 @@
 }
 
 ::-webkit-scrollbar {
-  width: .5rem;
+  width: .01rem;
 }
 
 ::-webkit-scrollbar-track {
@@ -43,7 +43,7 @@ body {
   & img {
     width: 10rem;
   }
-}
+  }
 
 main {
   width: 30rem;
