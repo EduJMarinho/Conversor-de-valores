@@ -133,8 +133,7 @@ footer {
   max-height: 12.25rem;
   text-align: center;
   display: none;
-  overflow-y: scroll;
-}
+ }
 
 .show-result {
   display: block;
