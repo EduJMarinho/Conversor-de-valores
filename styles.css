@@ -1,0 +1,157 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: "Inter", sans-serif;
+  font-size: 1rem;
+}
+
+::-webkit-scrollbar {
+  width: .5rem;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #9d9db5;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #7f7f89;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background-image: url("./img/Dolar.jpg");
+  background-size: contain;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 3.12rem;
+  color: black;
+}
+
+.logo-convert {
+  background-color: #f4f9f9c2;
+  box-shadow: blur(1.5rem);
+  border-radius: .5rem;
+  padding-top: .4rem;
+
+  & img {
+    width: 10rem;
+  }
+}
+
+main {
+  width: 30rem;
+  border-radius: 1.5rem;
+  border: 1px solid #98a8fd;
+  overflow-y: hidden;
+}
+
+form {
+  background-color: #33343a;
+  display: flex;
+  flex-direction: column;
+  padding: 3.5rem 4rem;
+  border: 1px solid #98a8fd;
+}
+
+label {
+  font-size: 0.75rem;
+  color: #979fd3;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+  margin-top: 1.4rem;
+}
+
+input,
+select {
+  outline: 0;
+
+  color: rgb(0, 0, 0);
+  border: 1px solid #2b2d4e;
+  border-radius: 0.5rem;
+  background-color: #4d4f75;
+  padding: 1.25rem 1rem;
+  font-family: "Inter", sans-serif;
+  font-size: 1.2rem;
+}
+
+select {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  background: url("./img/chevron-down.svg") no-repeat;
+  background-position: calc(100% - 0.75rem) center !important;
+  background-color: #4d4f75;
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+
+input::placeholder,
+select:invalid,
+option {
+  color: #f3f3f8;
+}
+
+input:focus,
+select:focus {
+  border: 1px solid #98a8fd;
+}
+
+button {
+  height: 3.25rem;
+  background-color: #959aac;
+  border: none;
+  border-radius: 0.5rem;
+  color: rgb(54, 55, 55);
+  font-family: "Inter", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  margin-top: 3rem;
+  outline: 0;
+}
+
+button:hover {
+  background-color: #8995ed;
+  color: black;
+  font-size: 1.3rem;
+}
+
+button:focus {
+  outline: 1.5px solid #45454d;
+}
+footer {
+  background-color: #40426e;
+  padding: 1.5rem;
+  max-height: 12.25rem;
+  text-align: center;
+  display: none;
+  overflow-y: scroll;
+}
+
+.show-result {
+  display: block;
+}
+
+footer span {
+  color: #7581c7;
+  font-size: 1.2rem;
+  font-family: "IBM Plex Mono", monospace;
+  margin-bottom: 0.5rem;
+  line-height: 1.25rem;
+}
+
+footer h1 {
+  color: #e6e8ef;
+  font-weight: 700;
+  font-size: 2rem;
+  line-height: 3rem;
+  word-break: break-all;
+}
