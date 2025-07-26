@@ -1,39 +1,36 @@
-💱 Conversor de Moedas
+# 💱 Projeto Conversor de Valores
 
-*Projeto desenvolvido com entusiasmo e foco na prática de JavaScript, utilizando também HTML e CSS. 
-*Este conversor abrange as principais moedas do mundo, oferecendo uma experiência simples, direta e funcional.
+Aplicação desenvolvida como parte da formação **FullStack** na plataforma **Rocketseat**, com o objetivo de praticar lógica em **JavaScript** e estruturação com **HTML** e **CSS**. Este projeto simula a conversão entre diferentes moedas de forma simples e funcional.
 
+🔗 [Acesse o projeto online](https://edujmarinho.github.io/Projeto-Conversor-de-valores/)
 
+## 🎯 Objetivos
 
-📌 Propósito
+- Aplicar conceitos de **JavaScript** em um cenário prático  
+- Criar uma interface clara e intuitiva para conversão de valores  
+- Consolidar o aprendizado por meio de um projeto funcional  
 
-*Este projeto foi elaborado como parte do processo de aprendizado e consolidação dos conhecimentos em JavaScript. 
-*Representa um desafio de nível intermediário, e foi construído com muito esforço e dedicação para entregar o melhor resultado possível.
+## 🚀 Tecnologias Utilizadas
 
+- **HTML5** – Estrutura da página  
+- **CSS3** – Estilização e responsividade  
+- **JavaScript** – Lógica de conversão e interatividade  
 
+## 🧠 Aprendizados
 
-🎯 Objetivos
+- Manipulação de DOM com JavaScript  
+- Criação de funções para cálculo de conversão  
+- Organização de código e separação de responsabilidades  
+- Estilização com foco em usabilidade e clareza visual  
 
-*Aplicar conceitos da linguagem JavaScript em um cenário prático.
+## 🙋‍♂️ Autor
 
-*Criar uma ferramenta útil e interativa para conversão de moedas.
+Desenvolvido por **Eduardo José Marinho**, aluno da Rocketseat e entusiasta da tecnologia.  
+Este projeto representa mais um passo na jornada de aprendizado e evolução como desenvolvedor.
 
-*Estimular o desenvolvimento por meio da pesquisa e prática.
+> “Construir, errar, refatorar, aprender: esse é o caminho do Dev.” – Edu Marinho
 
+## 🙌 Agradecimento
 
-
-🚀 Tecnologias Utilizadas:
-
-*HTML
-
-*CSS
-
-*JavaScript
-
-
-🙌 Agradecimento
-
-*Se você está utilizando ou explorando este projeto, 
-desejo muita sorte e sucesso na sua jornada como desenvolvedor. 
-
- Jesus seja louvado!!!  🙏
+Se você chegou até aqui, desejo **muita sorte na sua jornada** como dev.  
+**Jesus seja louvado! 🙏**
