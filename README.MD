@@ -28,7 +28,10 @@ Aplicação desenvolvida como parte da formação **FullStack** na plataforma **
 Desenvolvido por **Eduardo José Marinho**, aluno da Rocketseat e entusiasta da tecnologia.  
 Este projeto representa mais um passo na jornada de aprendizado e evolução como desenvolvedor.
 
-> “Construir, errar, refatorar, aprender: esse é o caminho do Dev.” – Edu Marinho
+🧠 Analisar 📚 Aprender ❌ Errar  
+    🔁 Refatorar  🛠️ Construirr  
+    ->   ->   ->   ->   ->   ->   ->    
+→ Esse é o caminho do Dev. — Edu Marinho
 
 ## 🙌 Agradecimento
 
